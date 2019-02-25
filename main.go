@@ -73,7 +73,7 @@ func setupServer(port uint64) *http.Server {
 func main() {
 	// Define the flags
 	port := flag.Uint64("port", 8080, "port to listen on")
-	dataFile := flag.String("data", "data/mock-data-from-feb-24.json", "file to use as mock data")
+	dataFile := flag.String("data", "data/feb-25-interval-3s-1850-queries.json", "file to use as mock data")
 	duration := flag.Duration("interval", 3*time.Second, "the interval that the mock data is spaced apart")
 	flag.Parse()
 
