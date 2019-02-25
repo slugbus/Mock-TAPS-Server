@@ -1,0 +1,3 @@
+# Ignore binaries
+mock-taps-server
+*.exe
