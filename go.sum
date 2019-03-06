@@ -1,6 +1,4 @@
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
-github.com/slugbus/slugger v0.0.0-20190224200653-36c1c5e4b255 h1:yw7TSCLl6fcy7BhT8u/KimnwHlknEiUmW//IvK7fvro=
-github.com/slugbus/slugger v0.0.0-20190224200653-36c1c5e4b255/go.mod h1:w5VCTyRu8jJNKRqXOvmcXrdRss9TXqHQOzRBIASkNv8=
-github.com/slugbus/slugger v0.0.0-20190225181042-ebccdf3f56f0 h1:DcBGDwJcQe3tWP/mYg9WK21nuWoR3/tglNoMg8nONLc=
-github.com/slugbus/slugger v0.0.0-20190225181042-ebccdf3f56f0/go.mod h1:w5VCTyRu8jJNKRqXOvmcXrdRss9TXqHQOzRBIASkNv8=
+github.com/slugbus/taps v1.0.0 h1:8Jd2fkyrDxBbbCbLPmZrwBz3b8YA4sQNobPWHFZMBTw=
+github.com/slugbus/taps v1.0.0/go.mod h1:m11FFXzS4zyl595pG/QT80KRJBqLGvYVxEsYJOJrbVA=

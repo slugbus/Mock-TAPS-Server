@@ -28,7 +28,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/slugbus/slugger"
+	"github.com/slugbus/taps"
 )
 
 // Secure setup thanks to https://blog.cloudflare.com/exposing-go-on-the-internet/
@@ -84,7 +84,7 @@ func main() {
 	}
 
 	// Unmarshal the bytes into a struct
-	mockResponses := [][]slugger.Bus{}
+	mockResponses := [][]taps.Bus{}
 	if err := json.Unmarshal(mockBytes, &mockResponses); err != nil {
 		log.Fatal(err)
 	}
